@@ -1,6 +1,6 @@
 # Notely – Learn CICD Starter
 
-Starter code for the Notely app in the [Boot.dev Learn CICD course](https://boot.dev).
+Starter code for the Notely app
 
 ## Quickstart
 

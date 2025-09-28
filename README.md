@@ -1,5 +1,7 @@
 # Notely – Learn CICD Starter
 
+![testing badge](https://github.com/Myles-J/cicd-starter/actions/workflows/ci.yml/badge.svg)
+
 Starter code for the Notely app
 
 ## Quickstart
